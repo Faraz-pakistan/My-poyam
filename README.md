@@ -1,2 +1,4 @@
 # My-poyam
-This repository i am making for learning how to make repository.
+I make this repository for following learning purpose.
+1) How to make repositories.
+2) How to use Git and Github
